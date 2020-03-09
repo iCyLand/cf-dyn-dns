@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/iCyLand/cf-dyn-dns/issues"
   },
-  "homepage": "https://github.com/iCyLand/cf-dyn-dns#readme"
+  "homepage": "https://github.com/iCyLand/cf-dyn-dns#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
