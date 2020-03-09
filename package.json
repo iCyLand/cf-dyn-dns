@@ -1,0 +1,24 @@
+{
+  "name": "cf-dyn-dns",
+  "version": "0.0.1",
+  "description": "Cloudflare Dynamic DNS",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iCyLand/cf-dyn-dns.git"
+  },
+  "keywords": [
+    "Cloudflare",
+    "Dynamic",
+    "DNS"
+  ],
+  "author": "Sinawat Jamsai",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iCyLand/cf-dyn-dns/issues"
+  },
+  "homepage": "https://github.com/iCyLand/cf-dyn-dns#readme"
+}
